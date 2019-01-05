@@ -6,3 +6,5 @@
 
 - `$ go get -u github.com/gabrie30/word_miner`
 - `$ word_miner`
+
+![](https://user-images.githubusercontent.com/1512282/50730295-d9017600-10fe-11e9-95b4-202bcd97f7b7.gif)
